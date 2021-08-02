@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/DiegoVAReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoVAReis&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_color=373e47"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoVAReis&show_icons=true&theme=react&include_all_commits=true&count_private=false&border_color=373e47"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVAReis&layout=compact&langs_count=7&theme=react&border_color=373e47"/>
 </div>
 <div style="display: inline_block"><br>
