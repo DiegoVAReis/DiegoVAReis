@@ -1,7 +1,7 @@
 ### Olá, me chamo Diego Reis 👋
 
 - 🔭 Eu atualmente estou trabalhando como Analista de Sistemas / TechLead em aplicações Delphi e Utilizando SQL Server.
-- 🌱 Estou estudando Node/React para voltar ao universo Web.
+- 🌱 Estou estudando C# .NET 5, para utilizar em algumas demandas novas.
 
  ##
 
